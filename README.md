@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sankara-sabapathy
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node JS
+- 👀 I’m a Full stack web developer
+- 🌱 I’m currently working on Node JS
 - 💞️ I’m looking to collaborate on Node JS serverless applications or any angular typescript based projects
-- 📫 How to reach me mail me @ krssabapathy1999@gmail.com
+- 📫 Reach me @ krssabapathy1999@gmail.com
