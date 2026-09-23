@@ -10,7 +10,6 @@ I specialize in building scalable, event-driven backend systems and have a stron
 
 - 🔭 I’m currently working on **Node.js, AWS Serverless, and Event-Driven Architectures**.
 - 🌱 I’m interested in **Microservices, Architecture Design, and Process Automation**.
-- 🤝 I’m looking to collaborate on **Serverless projects and Open Source**.
 - 💬 Ask me about **AWS (Lambda, DynamoDB, Glue), Kafka, and Backend Development**.
 
 ---
